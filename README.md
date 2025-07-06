@@ -1,4 +1,4 @@
-# Meeting Manager Telegram Bot (Full Source)
+# Meeting Manager Telegram Bot
 
 A Persian-language Telegram bot for managing meetings and participant invitations with fuzzy name matching, automated scheduling, and smart reminders.
 
@@ -30,7 +30,7 @@ A Persian-language Telegram bot for managing meetings and participant invitation
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/MeetingManager-FullBot.git
+git clone https://github.com/yourusername/MeetingManager-TelegramBot.git
 cd MeetingManager-FullBot
 python -m venv venv
 venv\Scripts\activate
